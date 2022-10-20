@@ -3,7 +3,7 @@
 - I work with a variety of programs and languages
 - I make small video games and small programs.
 
-- Current project | Note Registry
+- Current project(s) | Note Registry | AppHub | Unnamed cleaning game
 
 <!---
 jakoofficial/jakoofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
